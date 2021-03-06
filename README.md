@@ -17,3 +17,6 @@ It's made on Visual Basic 2010 Express, an old software from 2010.
 # Is the source code have spoilers about the malware ?
 
 Yes, because there is all the logic-side of the malware.
+
+#Demo image
+![](https://raw.githubusercontent.com/Rix565/Ketako/main/demo.png)
