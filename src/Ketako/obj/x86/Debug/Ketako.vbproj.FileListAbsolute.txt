@@ -1,0 +1,64 @@
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Debug\Ketako.exe
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Debug\Ketako.pdb
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Debug\Ketako.xml
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Form1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Resources.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.exe
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.xml
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.pdb
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Debug\Ketako.exe.config
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Form2.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Dialog1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Form3.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.Form4.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.LoginForm1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.adminpanel.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.SplashScreen1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Debug\Ketako.changecaptions.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Debug\Ketako.exe.config
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.exe
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.xml
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.pdb
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Debug\Ketako.exe
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Debug\Ketako.pdb
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Debug\Ketako.xml
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.adminpanel.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.changecaptions.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Dialog1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form2.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form3.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form4.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form5.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.LoginForm1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Resources.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.SplashScreen1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Debug\Ketako.Form6.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Debug\Ketako.exe.config
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.exe
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.xml
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.pdb
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Debug\Ketako.exe
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Debug\Ketako.pdb
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Debug\Ketako.xml
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.adminpanel.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.changecaptions.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Dialog1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form4.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form5.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Form6.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.LoginForm1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\Ketako.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Debug\GenerateResource.write.1.tlog

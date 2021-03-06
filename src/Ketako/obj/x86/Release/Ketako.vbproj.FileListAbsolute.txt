@@ -1,0 +1,60 @@
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Release\Ketako.exe.config
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Release\Ketako.exe
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Release\Ketako.pdb
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\bin\Release\Ketako.xml
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Dialog1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Form1.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Form2.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Form3.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Form4.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.Resources.resources
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.exe
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.xml
+C:\Documents and Settings\Rix\Local Settings\Application Data\Temporary Projects\Ketako\obj\x86\Release\Ketako.pdb
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Release\Ketako.exe.config
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Release\Ketako.exe
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Release\Ketako.pdb
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\bin\Release\Ketako.xml
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.adminpanel.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.changecaptions.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Dialog1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form2.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form3.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form4.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form5.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.LoginForm1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Resources.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.SplashScreen1.resources
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.exe
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.xml
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.pdb
+C:\Documents and Settings\Rix\Bureau\Ketako\Ketako\obj\x86\Release\Ketako.Form6.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Release\Ketako.exe.config
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.exe
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.xml
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.pdb
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Release\Ketako.exe
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Release\Ketako.pdb
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\bin\Release\Ketako.xml
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.adminpanel.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.changecaptions.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Dialog1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form3.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form4.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form5.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Form6.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.LoginForm1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\GenerateResource.write.1.tlog
