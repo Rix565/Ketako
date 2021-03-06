@@ -18,5 +18,5 @@ It's made on Visual Basic 2010 Express, an old software from 2010.
 
 Yes, because there is all the logic-side of the malware.
 
-#Demo image
+# Demo image
 ![](https://raw.githubusercontent.com/Rix565/Ketako/main/demo.png)
