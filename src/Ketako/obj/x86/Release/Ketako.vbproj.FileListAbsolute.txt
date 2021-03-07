@@ -58,3 +58,4 @@ C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ke
 C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\Ketako.SplashScreen1.resources
 C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\GenerateResource.read.1.tlog
 C:\Documents and Settings\Administrator\Desktop\Ketako\Ketako\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\src\Ketako\bin\Release\Ketako.exe.config

@@ -39,6 +39,8 @@ Partial Class Form1
         Me.ProgressBar2 = New System.Windows.Forms.ProgressBar()
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Label6 = New System.Windows.Forms.Label()
+        Me.ProgressBar3 = New System.Windows.Forms.ProgressBar()
+        Me.Label7 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -178,11 +180,30 @@ Partial Class Form1
         Me.Label6.TabIndex = 13
         Me.Label6.Text = "No :D"
         '
+        'ProgressBar3
+        '
+        Me.ProgressBar3.Location = New System.Drawing.Point(650, 59)
+        Me.ProgressBar3.Maximum = 5
+        Me.ProgressBar3.Name = "ProgressBar3"
+        Me.ProgressBar3.Size = New System.Drawing.Size(100, 23)
+        Me.ProgressBar3.TabIndex = 14
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(503, 333)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(136, 13)
+        Me.Label7.TabIndex = 15
+        Me.Label7.Text = "Ketako v1.1, coded by Rix."
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(846, 413)
+        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.ProgressBar3)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.ProgressBar2)
@@ -221,5 +242,7 @@ Partial Class Form1
     Friend WithEvents ProgressBar2 As System.Windows.Forms.ProgressBar
     Friend WithEvents Button5 As System.Windows.Forms.Button
     Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents ProgressBar3 As System.Windows.Forms.ProgressBar
+    Friend WithEvents Label7 As System.Windows.Forms.Label
 
 End Class

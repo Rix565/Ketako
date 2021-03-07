@@ -77,7 +77,7 @@ Partial Class Form4
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.MaximizeBox = False
         Me.Name = "Form4"
-        Me.Text = "Form4"
+        Me.Text = "Reset timer request !"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

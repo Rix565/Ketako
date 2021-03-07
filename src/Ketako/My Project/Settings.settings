@@ -8,5 +8,8 @@
     <Setting Name="caption2" Type="System.String" Scope="User">
       <Value Profile="(Default)">If you don't find the exit, i will trash it :D</Value>
     </Setting>
+    <Setting Name="destructivemodeenabled" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yes</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
