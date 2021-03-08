@@ -11,5 +11,8 @@
     <Setting Name="destructivemodeenabled" Type="System.String" Scope="User">
       <Value Profile="(Default)">Yes</Value>
     </Setting>
+    <Setting Name="rainbowmode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yes</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
