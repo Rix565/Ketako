@@ -41,6 +41,10 @@ Partial Class Form1
         Me.Label6 = New System.Windows.Forms.Label()
         Me.ProgressBar3 = New System.Windows.Forms.ProgressBar()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.Timer2 = New System.Windows.Forms.Timer(Me.components)
+        Me.Timer3 = New System.Windows.Forms.Timer(Me.components)
+        Me.Timer4 = New System.Windows.Forms.Timer(Me.components)
+        Me.Button6 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -86,7 +90,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Trebuchet MS", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(324, 120)
+        Me.Button2.Location = New System.Drawing.Point(324, 119)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(510, 33)
         Me.Button2.TabIndex = 4
@@ -96,7 +100,7 @@ Partial Class Form1
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Trebuchet MS", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(324, 188)
+        Me.Button3.Location = New System.Drawing.Point(324, 197)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(510, 33)
         Me.Button3.TabIndex = 5
@@ -107,7 +111,7 @@ Partial Class Form1
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(554, 224)
+        Me.Label3.Location = New System.Drawing.Point(553, 245)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(66, 25)
         Me.Label3.TabIndex = 6
@@ -195,13 +199,33 @@ Partial Class Form1
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(136, 13)
         Me.Label7.TabIndex = 15
-        Me.Label7.Text = "Ketako v1.1, coded by Rix."
+        Me.Label7.Text = "Ketako v1.2, coded by Rix."
+        '
+        'Timer2
+        '
+        '
+        'Timer3
+        '
+        '
+        'Timer4
+        '
+        '
+        'Button6
+        '
+        Me.Button6.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Location = New System.Drawing.Point(460, 158)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(224, 33)
+        Me.Button6.TabIndex = 16
+        Me.Button6.Text = "Changelog"
+        Me.Button6.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(846, 413)
+        Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.ProgressBar3)
         Me.Controls.Add(Me.Label6)
@@ -244,5 +268,9 @@ Partial Class Form1
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents ProgressBar3 As System.Windows.Forms.ProgressBar
     Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents Timer2 As System.Windows.Forms.Timer
+    Friend WithEvents Timer3 As System.Windows.Forms.Timer
+    Friend WithEvents Timer4 As System.Windows.Forms.Timer
+    Friend WithEvents Button6 As System.Windows.Forms.Button
 
 End Class

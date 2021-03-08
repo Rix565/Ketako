@@ -22,11 +22,14 @@ Partial Class adminpanel
     'Ne la modifiez pas à l'aide de l'éditeur de code.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
+        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.SuspendLayout()
         '
         'Label1
@@ -63,11 +66,11 @@ Partial Class adminpanel
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(-2, 164)
+        Me.Label2.Location = New System.Drawing.Point(-3, 228)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(192, 25)
         Me.Label2.TabIndex = 3
-        Me.Label2.Text = "Ketako v1.1 by Rix"
+        Me.Label2.Text = "Ketako v1.2 by Rix"
         '
         'Button3
         '
@@ -79,11 +82,25 @@ Partial Class adminpanel
         Me.Button3.Text = "button" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         Me.Button3.UseVisualStyleBackColor = True
         '
+        'Button4
+        '
+        Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button4.Location = New System.Drawing.Point(12, 171)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(426, 34)
+        Me.Button4.TabIndex = 5
+        Me.Button4.Text = "RAINBOW MODE"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
+        'Timer1
+        '
+        '
         'adminpanel
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(450, 188)
+        Me.ClientSize = New System.Drawing.Size(450, 251)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button2)
@@ -102,4 +119,6 @@ Partial Class adminpanel
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Button3 As System.Windows.Forms.Button
+    Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents Timer1 As System.Windows.Forms.Timer
 End Class
