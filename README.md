@@ -1,6 +1,6 @@
 # Ketako
 
-Ketako malware repository.
+Ketako malware repository. Version v1.3.
 
 # What is Ketako ?
 
@@ -19,4 +19,5 @@ It's made on Visual Basic 2010 Express, an old software from 2010.
 Yes, because there is all the logic-side of the malware.
 
 # Demo image
+_PS : This is a old picture !!!_
 ![](https://raw.githubusercontent.com/Rix565/Ketako/main/demo.png)
